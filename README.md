@@ -26,13 +26,13 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-• <b>Programing languages:</b> JavaScript, Typescript.
-• Frontend: React.js, Next.js, Tailwind, HTLM & CSS, Redux, GraphQl, react-testing-library, jest.
-• Backend: Expres.js, Docker, MySQL, Mongo, GraphQL, Firebase.
-• Artificial Intelligence: TensorFlow, Keras, Pandas.
+- <b>Programing languages:</b> JavaScript | Typescript | Java | C++
 
-• Languages: English (B2 IELTS), German (conversational), Spanish (native).
+- <b>Frontend:</b> React.js | Bootstrap | HTML & CSS | GraphQL | RestAPI
+- <b>Backend:</b> Node.js | Express.js | Docker | Microservices
 
+- <b>Databases:</b> MySQL | PostgreSQL | MongoDB | Firebase
+- <b>Languages:</b> English (B2) and Spanish (native).
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
