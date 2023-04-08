@@ -8,9 +8,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/paulinoacuna/paulinoacuna/raw/main/cloud_computing.gif" width = 250px></picture>
-
-<br>
+<picture> <img align="right" src="https://github.com/paulinoacuna/paulinoacuna/raw/main/cloud_computing.gif" width = 350px></picture>
 
 - A passionate Fullstack developer
 - Solid skills in databases, data structures, algorithms and mathematics.
