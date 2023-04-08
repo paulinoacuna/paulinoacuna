@@ -42,5 +42,5 @@
 <p>
   <img width = 400px src = "https://github-readme-stats.vercel.app/api?username=paulinoacuna&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
   
-  <img width = 400px src = "https://github-readme-streak-stats.herokuapp.com/?user=paulinoacuna">
+  [//]: <> <img width = 400px src = "https://github-readme-streak-stats.herokuapp.com/?user=paulinoacuna">
 </p>
