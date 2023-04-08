@@ -1,9 +1,7 @@
-<h1><p >Hi, I'm Paulino Acuña
+<h2><p >Hi, I'm Paulino Acuña
     <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>
     </p>
-</h1>
-
-<br>
+</h2>
 
 <img src = "https://github.com/paulinoacuna/paulinoacuna/raw/main/banner.png">
 
