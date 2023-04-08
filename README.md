@@ -8,17 +8,18 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/paulinoacuna/paulinoacuna/raw/main/cloud_computing.gif" width = 350px></picture>
+<picture> <img align="right" src="https://github.com/paulinoacuna/paulinoacuna/raw/main/cloud_computing.gif" width = 300px></picture>
 
 - A passionate Fullstack developer
 - Solid skills in databases, data structures, algorithms and mathematics.
 - I enjoy teamwork, productivity & time management, adaptability and self learning.
 - I’m currently open for an Intern or a new job opportunity
+
 - Visit my PortFolio here! [link](https://#)
 - Visit my Resume here! [link](https://#)
 
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
