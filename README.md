@@ -37,7 +37,7 @@
 
 <p>
   <img width = 400px src = "https://github-readme-stats.vercel.app/api?username=paulinoacuna&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
-  <img width = 300px src = "https://github-readme-streak-stats.herokuapp.com/?user=paulinoacuna">
+  <img width = 400px src = "https://github-readme-streak-stats.herokuapp.com/?user=paulinoacuna">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
