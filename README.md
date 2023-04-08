@@ -24,12 +24,13 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-- <b>Programing languages:</b> JavaScript | Typescript | Java | C++
+- <b>Programing languages:</b> JavaScript | Typescript | Java
 
 - <b>Frontend:</b> React.js | Bootstrap | HTML & CSS | GraphQL | RestAPI
 - <b>Backend:</b> Node.js | Express.js | Docker | Microservices
 
 - <b>Databases:</b> MySQL | PostgreSQL | MongoDB | Firebase
+- <b>Others:</b> Matlab | Python | C++ | Unity | GIT | Linux | Agile
 - English (B2) and Spanish (native).
 
 
